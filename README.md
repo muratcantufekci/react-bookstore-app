@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/60794840/234115263-838a035e-b4d2-4dd0-9b2a-2cb5331a8810.png)
+
+## Used Technologies
+- React
+- Tailwindcss
+- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
